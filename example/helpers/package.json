@@ -1,0 +1,7 @@
+{
+  "name": "jankscope-example-helpers",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Example-only native method that blocks the UI/main thread, used to validate jankscope's attribution.",
+  "license": "MIT"
+}
